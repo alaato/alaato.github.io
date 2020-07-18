@@ -1,0 +1,86 @@
+html
+{
+	height: 100%;
+	scroll-behavior: ;
+}
+body
+{
+	height: 100%;
+	background-color: black;
+}
+#main .nav-link:hover
+{
+  color:white;
+}
+{
+	color: red;
+}
+.navbar-light .navbar-brand ,.navbar-light .navbar-brand:hover
+{
+	font-size: 4rem;
+	font-family: 'Fondamento', cursive;
+	color: #f6e9e0;
+	
+	/*text-shadow: 0px 5px 8px black;*/
+}
+.background-tint {
+  
+  background-color: rgba(0,0,0,.2); // Tint 
+  background-blend-mode: multiply;
+
+}
+.navbar-light .navbar-nav .nav-link
+{
+	color:  #972b00;
+	font-family: 'Galada', cursive
+}
+div 
+{
+	text-align: center;
+	
+	
+}
+.mybut
+{
+	 border: 1px solid #972b00;
+	 color:  #972b00;
+	 font-family: 'Galada', cursive
+}
+h1
+{
+	font-family: 'Fondamento', cursive;
+	color: #f6e9e0;
+	text-shadow: 0px 5px 9px black;
+}
+#header
+{
+	background:linear-gradient(0deg, rgba(0,0,0,0.8), rgba(0,0,0,0.8)) , url(https://www.hdnicewallpapers.com/Walls/Big/Food%20and%20Drinks/Fast_Food_Dishes_for_Takeaway_in_Bar_4K_Wallpapers.jpg);
+	background-size: cover;
+	background-position: center;
+	background-repeat: no-repeat;
+	margin: 0;
+	overflow: hidden;
+	position: relative;
+}
+#header h1
+{
+	margin-top: 236px;
+}
+.full
+{
+	height: 100%;
+}
+h3
+{
+	font-family: 'Fondamento', cursive;
+	color: white;
+}
+#menu
+{
+	background: linear-gradient(0deg, rgba(0,0,0,0.5), rgba(0,0,0,0.2)), url(http://wallpoper.com/images/00/39/92/09/wood-textures_00399209.jpg);
+	background-position: center;
+	background-size: cover;
+	background-repeat: no-repeat;
+
+
+}
